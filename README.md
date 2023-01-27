@@ -1,4 +1,6 @@
-### 2년차 FE개발자로 포페런츠라는 스타트업 창업팀에서 일한 경험이 있으며 현재는 블루레이커스에서 재직중으로  스타트업 생태계 이해도가 높은편입니다 현재 블루레이커스에서 웹 관리자 페이지,파트너스페이지,랜딩페이지 프로젝트, 앱의 웹뷰파트의 기획과 프론트개발을 담당하고 있으며 꾸준히 개발공부를 해가며 자기발전에 노력을 하는 2년차 개발자입니다
+### 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?stye=flat&logo=React&logoColor=white" /> 
 
 <!--
 **SeungWon0921/SeungWon0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
