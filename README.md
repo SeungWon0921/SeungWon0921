@@ -5,7 +5,7 @@
   <div align="center">
   <p>💻 Platforms & Languages 💻</p>
   <img src="https://img.shields.io/badge/React-61DAFB?stye=flat&logo=React&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/scss-CC6699?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <br/><img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/scss-CC6699?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <br/><img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"> 
   <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <br/>
   <br/>
@@ -16,7 +16,7 @@
   <br/>
   <br/>
   <p>🛠️ Tools ⚒️</p>
-  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?stye=flat&logo=WebStorm&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?stye=flat&logo=Docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?stye=flat&logo=WebStorm&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?stye=flat&logo=Docker&logoColor=white" />
   <br/>
   <br/>
   </div>
