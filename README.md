@@ -1,5 +1,5 @@
 ### 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sean L. GitHub%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeanL.GitHub%20render&fontSize=90" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?stye=flat&logo=React&logoColor=white" /> 
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungWon0921&show_icons=true&theme=radical)
 
