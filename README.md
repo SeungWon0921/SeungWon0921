@@ -10,11 +10,13 @@
   <br/>
   <br/>
   <p>📗 Library 📙</p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?stye=flat&logo=Redux&logoColor=white" /> <img src="https://img.shields.io/badge/React Query-FF4154?stye=flat&logo=React Query&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?stye=flat&logo=Webpack&logoColor=white" /> <img src="https://img.shields.io/badge/Preitter-F7B93E?stye=flat&logo=Prettier&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?stye=flat&logo=ESLint&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?stye=flat&logo=Redux&logoColor=white" /> <img src="https://img.shields.io/badge/React Query-FF4154?stye=flat&logo=React Query&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?stye=flat&logo=Webpack&logoColor=white" /> <img src="https://img.shields.io/badge/Preitter-F7B93E?stye=flat&logo=Prettier&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?stye=flat&logo=ESLint&logoColor=white" /> <br/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?stye=flat&logo=Socket.io&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?stye=flat&logo=JSON Web Tokens&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?stye=flat&logo=Axios&logoColor=white" />
   <br/>
   <br/>
   <p>🛠️ Tools ⚒️</p>
-  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?stye=flat&logo=WebStorm&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?stye=flat&logo=Docker&logoColor=white" /> 
   <br/>
   <br/>
   </div>
