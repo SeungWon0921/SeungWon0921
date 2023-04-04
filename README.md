@@ -15,6 +15,8 @@
   <br/>
   <p>🛠️ Tools ⚒️</p>
   <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> 
+  <br/>
+  <br/>
   </div>
 <br/>
 
@@ -31,6 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungWon0921&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungWon0921&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
