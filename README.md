@@ -13,6 +13,7 @@
   <br/>
   <p>💻 APP 💻</p>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <br/>
   <br/>
   <p>📗 Library 📙</p>
@@ -22,12 +23,14 @@
   <br/>
   <br/>
   <p>🛠️ Tools ⚒️</p>
-  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?stye=flat&logo=WebStorm&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?stye=flat&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-#4A154B?stye=flat&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F05032?stye=flat&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F24E1E?stye=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?stye=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/WebStorm-000000?stye=flat&logo=WebStorm&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?stye=flat&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
     
   <br/>
   <br/>
   </div>
 <br/>
+
+
 
 <!--
 **SeungWon0921/SeungWon0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
