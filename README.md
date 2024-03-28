@@ -11,6 +11,10 @@
   <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <br/>
   <br/>
+  <p>💻 APP 💻</p>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br/>
+  <br/>
   <p>📗 Library 📙</p>
   <img src="https://img.shields.io/badge/Redux-764ABC?stye=flat&logo=Redux&logoColor=white" /> <img src="https://img.shields.io/badge/React Query-FF4154?stye=flat&logo=React Query&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?stye=flat&logo=Webpack&logoColor=white" /> <img src="https://img.shields.io/badge/Preitter-F7B93E?stye=flat&logo=Prettier&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?stye=flat&logo=ESLint&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/Socket.io-010101?stye=flat&logo=Socket.io&logoColor=white" /> 
