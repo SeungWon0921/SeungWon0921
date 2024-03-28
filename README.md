@@ -12,7 +12,7 @@
   <br/>
   <br/>
   <p>💻 APP 💻</p>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <br/>
   <br/>
   <p>📗 Library 📙</p>
